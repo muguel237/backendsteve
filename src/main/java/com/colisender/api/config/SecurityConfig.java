@@ -77,7 +77,7 @@ public class SecurityConfig {
             "https://*.ngrok.io",
             "https://*.ngrok.app",
             "https://*.ngrok.dev",
-            "https://extending-ungodly-linked.ngrok-free.dev"
+            "https://extending-ungodly-linked.ngrok-free.dev",
             "https://frontendsteve.vercel.app/"
         ));
 
